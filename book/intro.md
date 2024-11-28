@@ -13,4 +13,4 @@ align: right
 Gillian Saunders, senior lecturer ME
 ```
 
-$$ Gillian = Always \, right $$
+$$ Gillian = Always \ right $$
