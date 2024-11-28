@@ -10,7 +10,6 @@ width: 50%
 name: Gillian Saunders, senior lecturer
 align: right
 ---
-add bestand in de folder
-```
+Gillian Saunders, senior lecturer ME```
 
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
