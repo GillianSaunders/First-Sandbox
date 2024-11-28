@@ -4,7 +4,7 @@
 _Write book intro here. This is the first page the student will see when opening the url._
 
 
-``` {figure} figures/GillianME docent.jpeg
+``` {figure} figures/GillianMEdocent.jpeg
 ---
 width: 50%
 name: Gillian Saunders, senior lecturer
