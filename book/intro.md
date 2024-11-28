@@ -7,7 +7,8 @@ _Write book intro here. This is the first page the student will see when opening
 ``` {figure} figures/GillianME docent.jpeg
 ---
 width: 50%
-name: fig_mijneerstefiguur
+name: Gillian Saunders, senior lecturer
+align: right
 ---
 add bestand in de folder
 ```
