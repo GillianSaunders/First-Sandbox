@@ -1,3 +1,4 @@
-# Preface
+# Introduction
 
-This is my first attempt at writing an interactive textbook using Github
+Welcome to my world of teaching myself new skills. Let's see how this will go for now.
+$$ F = m \dot a $$
