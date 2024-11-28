@@ -10,6 +10,7 @@ width: 50%
 name: Gillian Saunders, senior lecturer
 align: right
 ---
-Gillian Saunders, senior lecturer ME```
+Gillian Saunders, senior lecturer ME
+```
 
 $$ Gillian = Always right $$
