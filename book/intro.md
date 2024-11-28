@@ -12,4 +12,4 @@ align: right
 ---
 Gillian Saunders, senior lecturer ME```
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+$$ Gillian = Always right $$
